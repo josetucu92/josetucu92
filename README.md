@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Argentina.
 * ✉️  You can contact me at [josemanuel\_seguro2@hotmail.com](mailto:josemanuel_seguro2@hotmail.com)
 * 🧠  I'm learning NextJS and everything related React and Javascript.
-* 🤝  I'm open to collaborating on Firebase projects.
 * ⚡  Crossfit enthusiastic 🏋️.
 
 ### Skills
